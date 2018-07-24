@@ -1,6 +1,6 @@
 # Image augmentation
 
-There are many ways for augmenting images. In my implementation, keras.preprocessing.image is used and extended to enable new transformations.
+There are many ways for augmenting images. In this implementation, keras.preprocessing.image is used and extended to enable new transformations.
 
 ## Create image generator from ImageDataFenerator()
 
