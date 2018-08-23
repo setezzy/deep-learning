@@ -23,3 +23,5 @@ Make a copy of the image.py file on your own machine. You could run `print(keras
 ## Train samples using fit_generator()
 
 The final step is to train the CNN and validate the model using `model.fit_generator()` on the real-time augmented images.
+
+see [my blog](http://zyzhang.top/2018/07/12/augmentation/) for more details.
